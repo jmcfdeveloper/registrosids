@@ -1,0 +1,15 @@
+{
+    "name": "jmcf/registrosids",
+    "description": "proyecto para unir los pdf de los registros profesionales",
+    "type": "project",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "jmcf.veveloper",
+            "email": "jmcf.tic.developer@gmail.com"
+        }
+    ],
+    "require": {
+        "iio/libmergepdf": "4.0"
+    }
+}
